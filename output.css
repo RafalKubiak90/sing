@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background-color: blueviolet; }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; }
+  .container .sing {
+    text-align: center; 
+    padding: 20px 0;}
+  .container h1 {
+    font-size: 30px;
+    color: rgb(191, 223, 12); }
+  .container h2 {
+    color: rgb(191, 223, 12); }
+  .container h3 {
+    color: greenyellow; }
+  .container p {
+    color: white;
+    font-size: 18px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: justify; }
+
+/*# sourceMappingURL=output.css.map */
