@@ -1,0 +1,27 @@
+{
+  "name": "Learning-Git",
+  "version": "1.0.0",
+  "description": "https://rafalkubiak90.github.io/sing/",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:html",
+    "test:html": "globstar nu-html-checker *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafalKubiak90/sing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafalKubiak90/sing/issues"
+  },
+  "homepage": "https://github.com/RafalKubiak90/sing#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "globstar": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  }
+}
